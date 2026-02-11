@@ -1,1 +1,0 @@
-# telegram-badwords-bot
